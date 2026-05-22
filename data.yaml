@@ -1,0 +1,7 @@
+path: C:\Users\user\BootcampLabs\m6-04-assessment\m6-04-assessment\DATA_CLEAN-20260521T192120Z-3-001\DATA_CLEAN\_splits
+train: train/images
+val: val/images
+test: test/images
+nc: 1
+names:
+  0: cat
